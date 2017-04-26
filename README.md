@@ -1,2 +1,2 @@
 # helloPy
-simple python with flask
+RestFul Api python with flask
